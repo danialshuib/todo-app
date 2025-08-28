@@ -25,3 +25,6 @@ This project helps manage tasks in the browser with a clean and simple interface
    ```bash
    git clone https://github.com/danialshuib/todo-app.git
    cd todo-app
+
+   🔗 **Live Demo:** [Todo App](https://danialshuib.github.io/todo-app/)
+
